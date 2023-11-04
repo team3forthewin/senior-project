@@ -1,3 +1,4 @@
+theme: Dinky
 # senior-project
 
 ## DATA ANALYSIS IF NFL COMBINE AND LEAUGE DATA
